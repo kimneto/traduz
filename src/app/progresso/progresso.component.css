@@ -1,0 +1,11 @@
+.progress{
+  background:gray;
+  border: solid 1px cornflowerblue;
+
+
+
+}
+
+.progress-bar{
+  background: blue;
+}
